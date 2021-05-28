@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Zl-tQ-DoR"; */
+"1Zl-tQ-DoR.text" = "";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "37H-mo-vCg"; */
+"37H-mo-vCg.title" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5ft-Ak-6PA"; */
+"5ft-Ak-6PA.text" = "";
+
+/* Class = "UINavigationItem"; title = "THE MOVIES"; ObjectID = "7Do-U4-PTO"; */
+"7Do-U4-PTO.title" = "الأفلام";
+
+/* Class = "UIButton"; normalTitle = "Read More"; ObjectID = "J2e-0m-H8T"; */
+"J2e-0m-H8T.normalTitle" = "قراءة المزيد";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "T7F-Pq-8rU"; */
+"T7F-Pq-8rU.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Favorite"; ObjectID = "TLU-SZ-2NX"; */
+"TLU-SZ-2NX.normalTitle" = "إعجاب";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YIK-he-rYO"; */
+"YIK-he-rYO.text" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z2W-tc-HVw"; */
+"Z2W-tc-HVw.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "dJg-cy-1uH"; */
+"dJg-cy-1uH.normalTitle" = "مشاركة";
+
+/* Class = "UIButton"; normalTitle = "Watchlist"; ObjectID = "iNF-C2-o4X"; */
+"iNF-C2-o4X.normalTitle" = "المشاهدة لاحقا";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "j80-Ph-jmD"; */
+"j80-Ph-jmD.text" = "";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rPd-eb-bEi"; */
+"rPd-eb-bEi.text" = "";
+
+/* Class = "UILabel"; text = "Overview"; ObjectID = "sT5-cd-VpP"; */
+"sT5-cd-VpP.text" = "مراجعة";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "u3Q-h0-NVb"; */
+"u3Q-h0-NVb.title" = " ";

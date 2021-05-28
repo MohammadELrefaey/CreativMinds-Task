@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  CreativeMinds-Task
+
+  Created by Mohamed on 5/28/21.
+  
+*/
+
+"Top Rated Movies" = "الأفلام الأعلى تقييما";
+"Popular Movies" = "الأفلام الأشهر";
+"Coming Soon Movies" = "يعرض قريبا";
+"Now Playing Movies" = "يعرض الآن";
+
+"Top Rated" = "الأعلى تقييما";
+"Popular" = "الأشهر";
+"Coming Soon" = "يعرض قريب";
+"Now Playing" = "يعرض الآن";
+
+"Language" = "English";

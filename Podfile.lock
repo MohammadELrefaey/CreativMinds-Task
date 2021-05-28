@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Kingfisher (6.3.0)
+  - MOLH (1.4.3)
+  - SideMenu (5.0.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 6.0)
+  - MOLH
+  - SideMenu (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - MOLH
+    - SideMenu
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  MOLH: e45827d200aeb1310641090fd8cd03ad2b42ae72
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+
+PODFILE CHECKSUM: abc04e10577e5bdc33072435b9fb4721063eaa5b
+
+COCOAPODS: 1.10.1
